@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kanishtha Siyaram <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
-<h2 align="center"> A Front-End Web Developer and an aspiring Full-Stack Developer. Hailing from Lucknow, I am a Computer Science student at SRM Institute of Science and Technology, Chennai. I am seeking for challenging opportunities so as to improve my competence and knowledge in coding and development. <br> <br> </h2> 
+<h2 align="center"> A Front-End Web Developer and an aspiring Full-Stack Developer. Hailing from Lucknow, I am a Computer Science student at SRM Institute of Science and Technology, Chennai. I am seeking for challenging opportunities to improve my competence and knowledge in coding and development. <br> <br> </h2> 
 
 
 </p>
