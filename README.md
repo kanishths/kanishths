@@ -21,11 +21,11 @@
 
 </p>
 
-<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="center" >
 <a href="https://www.instagram.com/__kanishtha__/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" width="3.5%" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width:100%;">
   </a><span>&nbsp;</span>
@@ -41,9 +41,13 @@
   <a href="mailto:mail.kanishthasiyaram15@gmail.com">
     <img src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" width="3.5%" data-canonical-src="https://img.icons8.com/fluent/48/000000/gmail.png" style="max-width:100%;">
   </a><span>&nbsp;</span>
-  
+  <br>
+    
 
-
+ <h3 align="left">Most used Languages:</h3>
+   <p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishths&layout=compact&title_color=ffffff&text_color=2affff&bg_color=1d1f21">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishths&label=Profile%20views&color=0e75b6&style=flat" alt="kanishths" /> </p>
